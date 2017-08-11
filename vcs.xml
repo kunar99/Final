@@ -14,8 +14,12 @@
           <option name="url" value="https://github.com/kunar99/Project-3.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/kunar99/Project-4.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\jclayton\Documents\Homework\Java\Project3" />
+    <option name="cloneParentDir" value="C:\Users\jclayton\Documents\GitHub\Intermediate Java\Project-4" />
   </component>
 </application>
